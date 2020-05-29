@@ -1,0 +1,13 @@
+C:\Marlene\Breno USA\Senai\Aula6Heranca\bin\Debug\netcoreapp3.1\Aula6Heranca.exe
+C:\Marlene\Breno USA\Senai\Aula6Heranca\bin\Debug\netcoreapp3.1\Aula6Heranca.deps.json
+C:\Marlene\Breno USA\Senai\Aula6Heranca\bin\Debug\netcoreapp3.1\Aula6Heranca.runtimeconfig.json
+C:\Marlene\Breno USA\Senai\Aula6Heranca\bin\Debug\netcoreapp3.1\Aula6Heranca.runtimeconfig.dev.json
+C:\Marlene\Breno USA\Senai\Aula6Heranca\bin\Debug\netcoreapp3.1\Aula6Heranca.dll
+C:\Marlene\Breno USA\Senai\Aula6Heranca\bin\Debug\netcoreapp3.1\Aula6Heranca.pdb
+C:\Marlene\Breno USA\Senai\Aula6Heranca\obj\Debug\netcoreapp3.1\Aula6Heranca.csprojAssemblyReference.cache
+C:\Marlene\Breno USA\Senai\Aula6Heranca\obj\Debug\netcoreapp3.1\Aula6Heranca.csproj.CoreCompileInputs.cache
+C:\Marlene\Breno USA\Senai\Aula6Heranca\obj\Debug\netcoreapp3.1\Aula6Heranca.AssemblyInfoInputs.cache
+C:\Marlene\Breno USA\Senai\Aula6Heranca\obj\Debug\netcoreapp3.1\Aula6Heranca.AssemblyInfo.cs
+C:\Marlene\Breno USA\Senai\Aula6Heranca\obj\Debug\netcoreapp3.1\Aula6Heranca.dll
+C:\Marlene\Breno USA\Senai\Aula6Heranca\obj\Debug\netcoreapp3.1\Aula6Heranca.pdb
+C:\Marlene\Breno USA\Senai\Aula6Heranca\obj\Debug\netcoreapp3.1\Aula6Heranca.genruntimeconfig.cache
