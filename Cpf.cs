@@ -13,16 +13,16 @@ namespace Aula6Heranca
         /// <param name="cpf"></param>
         /// <returns>Cpf = true or false</returns>
         public  bool ValidarCPF(string cpf){
-            if(cpf != ""){
+            if(cpf != null){
                 return valido = true;
             }
             return valido = false;
         }
+        
         /// <summary>
         /// Pega o valor true ou false da anterior e converte em texto
         /// </summary>
         /// <returns>texto de validação</returns>
-
         public string validado(){
             if(valido == true){
                 return "cpf valido";

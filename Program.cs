@@ -8,7 +8,12 @@ namespace Aula6Heranca
         {
             Pessoa breno = new Pessoa();
             breno.nome = "Breno";
-            breno.cpf = "123";
+            System.Console.WriteLine(breno.saudacao());
+            
+            Cpf gpf = new Cpf();
+            gpf.cpf = "000.000.000-00";
+            gpf.valido = true;
+            System.Console.WriteLine(gpf.validado());
 
         }
     }

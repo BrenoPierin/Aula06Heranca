@@ -10,7 +10,7 @@ namespace Aula6Heranca
         /// <param name="cnpj"></param>
         /// <returns>CNPJ = true or false</returns>
        public bool ValidarCNPJ(string cnpj){
-            if(cnpj != ""){
+            if(cnpj != null){
                 return valido = true;
             }
             return valido = false;
